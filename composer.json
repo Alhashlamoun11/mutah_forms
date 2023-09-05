@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "MyNamespace\\": "classes/"
+    }
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
